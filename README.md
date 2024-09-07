@@ -22,5 +22,5 @@ This project is an emotion detection system that uses a pre-trained deep learnin
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/thecritiz/emotion-detector.git
+   git clone https://github.com/thecritiz/Expression_Detect.git
    cd emotion-detector
